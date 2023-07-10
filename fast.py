@@ -1,2 +1,2 @@
 # FastLab project.
-print("Welcome to FastLab project")
+print("Welcome To FastLab Project")
