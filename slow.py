@@ -7,4 +7,5 @@ def slow_feature():
 slow_feature()
 slow = [1,2,3,4]
 for x in slow:
-    print(x)
+    if x != 3:
+        print(x)
